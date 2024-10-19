@@ -1,5 +1,3 @@
-use core::num;
-
 use crate::chess_piece::ChessPiece;
 use crate::chess_piece::ChessPiece::*;
 use crate::chess_piece::Color::*;
